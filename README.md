@@ -1,4 +1,7 @@
-# Shadow-Arm
+<a>
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=50&duration=2000&pause=500&multiline=true&width=1500&height=80&lines=Shadow+Arm" alt="Typing SVG" />
+</a>
+
 Demonstration Video Link: https://youtu.be/iAxC_sOx8i8
 
 Shadow Arm is a 2 Degree of Freedom (DoF) writing robotic arm that I fabricated and programmed using an ATmega 328p microcontroller and two servo motors. The arm is able to track object movement in front of a camera using contour detection, and obtain the path of movement through calculating the centroid of the object.
